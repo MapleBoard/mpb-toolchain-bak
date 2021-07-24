@@ -23,7 +23,7 @@ Build for GD32VF103:
 
 <pre>
 mkdir build
-./configure --prefix=opt/mpb-toolchain/build --with-arch=rv32imac --with-abi=ilp32
+./configure --prefix=/opt/mpb-toolchain/build --with-arch=rv32imac --with-abi=ilp32
 make -j8
 </pre>
 
